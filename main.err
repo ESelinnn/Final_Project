@@ -1,0 +1,4 @@
+Compiling C:\Users\emine\Desktop\bitirme\main on 18-Nis-21 at 00:10
+*** Error 44 "C:\Users\emine\Desktop\bitirme\main.c" Line 330(1,1): Internal Error - Contact CCS  PR-CODE at 27/C/667 SCR=1504
+      1 Errors,  0 Warnings.
+Build Failed.

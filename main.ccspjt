@@ -1,0 +1,47 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.007
+Compiler=PCM
+CCSVersion=5.007
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\Metin Samet\Desktop\2019-2020 güz Dönemi belgeler\bitirme projesiii\sensörokumaa\
+[C:\Users\Metin Samet\Desktop\2019-2020 güz Dönemi belgeler\bitirme projesiii\sensörokumaa\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=main.h
+3=..\..\..\..\Program Files (x86)\PICC\Drivers\lcd.c
+t1=1
+t2=1
+Count=3
+t3=1
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=2
+D1=17-04-2021
+D1_L=2
+D1_L1=[85916]Project Opened.
+D1_L2=[86084]Started Editing.
+D2=18-04-2021
+D2_L=4
+D2_L1=[487]Stopped Editing.
+TotalEdit=14
+TotalDebug=0
+D2_E=14
+D2_D=0
+D2_L2=[487]Project Closed.
+D2_L3=[618]Project Opened.
+D2_L4=[629]Project Closed.
