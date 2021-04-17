@@ -4,4 +4,5 @@ This is my last year project in Electrical & Electronics Engineering.
 I have made a project that can divide colored objects autonomously with 3 axis robot arm.
 For the project I have used CCS Compiler to program my PIC microcontroller and I made my PCB design in PROTEUS.
 I also add my project Thesis in pdf.
-
+NOTE!!
+For code look main.c
